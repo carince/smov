@@ -1,7 +1,7 @@
 {
   "productName": "sudo-flix",
   "version": "0.1.0",
-  "identifier": "com.tauri.dev",
+  "identifier": "com.sudoflix.dev",
   "build": {
     "frontendDist": "../dist",
     "devUrl": "http://localhost:5173",
